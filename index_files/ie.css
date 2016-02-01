@@ -1,0 +1,6 @@
+body {
+	behavior:url(csshover.htc);
+}
+#cont p {
+	padding: 2px 10px 2px 2px;
+}
