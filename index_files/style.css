@@ -36,7 +36,7 @@ a img {
 /* Global Elements
 =====================================================================*/
 body {
-	background:#fff url(../images/background.png);
+	background:#fff url(images/background.png);
 	line-height: 1.6em;
 	font:62.5% arial, verdana, serif;
 }
@@ -79,7 +79,7 @@ body {
 	float:left;
 }
 #logo span{
-	background:url(../images/logo.png) no-repeat;
+	background:url(images/logo.png) no-repeat;
 	position:absolute;
 	width:100%;
 	height:100%;
@@ -93,12 +93,12 @@ body {
 #backcontent {
 	width:970px;
 	border:1px solid #512901;
-	background:url(../images/back_wrapper.png);
+	background:url(images/back_wrapper.png);
 	padding:9px;
 }
 #placecontent {
 	width:970px;
-	background:#fff url(../images/back_content.png) repeat-x 0 200px;
+	background:#fff url(images/back_content.png) repeat-x 0 200px;
 }
 #slideshow {
 	overflow:hidden;
@@ -117,7 +117,7 @@ body {
 	position:absolute;
 	top:165px;
 	left:-20px;
-	background:url(../images/back_menu.png) no-repeat;
+	background:url(images/back_menu.png) no-repeat;
 	z-index:100;
 }
 #mainmenu {
@@ -215,7 +215,7 @@ div#placemainmenu li li:hover ul
 	color:#7a3802;
 	font-size:3.0em;
 	text-transform:uppercase;
-	background:url(../images/septitle.gif) repeat-x 0 100%;
+	background:url(images/septitle.gif) repeat-x 0 100%;
 	padding:0 0 5px 0;
 }
 
@@ -249,7 +249,7 @@ div#placemainmenu li li:hover ul
 	color:#383838;
 	line-height:1.6em;
 	margin:3px 0;
-	background:url(../images/bullet.png) no-repeat 0 5px;
+	background:url(images/bullet.png) no-repeat 0 5px;
 	padding:0 0 0 15px;
 }
 .imgright {
@@ -292,7 +292,7 @@ div#placemainmenu li li:hover ul
 	background:#d2d2d2; 
 	margin:0 0 1px 6px; 
 	display:block; 
-	background:url(../images/menunav_hover.png) no-repeat; 
+	background:url(images/menunav_hover.png) no-repeat; 
 	color: #fff; 
 	left:-3px;
 	text-align:right;
@@ -348,7 +348,7 @@ div#placemainmenu li li:hover ul
 	padding:7px 42px 0 0;
 }
 .smallmenunav li a:hover, .smallmenunav li.active a, .smallmenunav li.active a:link, .smallmenunav li.active a:visited {
-	background:url(../images/menunavsmall_hover.png) no-repeat;
+	background:url(images/menunavsmall_hover.png) no-repeat;
 	color:#fff;
 	text-decoration:none;
 }
@@ -357,7 +357,7 @@ div#placemainmenu li li:hover ul
 #maincontent #listnews li {
 	margin:0;
 	padding:0 0 10px 0;
-	background:url(../images/septitle.gif) repeat-x 0 100%;
+	background:url(images/septitle.gif) repeat-x 0 100%;
 }
 #maincontent #listnews {
 	margin:0;
@@ -658,7 +658,7 @@ div#placemainmenu li li:hover ul
 	float:left;
 }
 #logofooter span{
-	background:url(../images/logo_footer.png) no-repeat;
+	background:url(images/logo_footer.png) no-repeat;
 	position:absolute;
 	width:100%;
 	height:100%;
